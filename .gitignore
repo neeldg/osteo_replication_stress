@@ -3,3 +3,5 @@ data/
 .Rhistory
 .RData
 results/
+.Rproj.user/
+.DS_Store
